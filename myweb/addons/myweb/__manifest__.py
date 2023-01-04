@@ -4,4 +4,7 @@
         'category': 'website',
         'summary': 'Migracion de sitio web',
         'application': True,
+        'data': [
+            'views/templates.xml',
+            ],
 }

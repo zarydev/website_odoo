@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<template id="website" name="Sitio Web">
+		<t t-call="web.layout">
+			<div class="oe_structure">
+				<h1>Pagina de pruba</h1>
+				<h2>Test</h2>
+			</div>
+		</t>
+	</template>
+</odoo>
