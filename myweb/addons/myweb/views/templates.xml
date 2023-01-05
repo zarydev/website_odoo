@@ -116,10 +116,10 @@ font-size: inherit;
                 <div class="margin-bottom margin-xxlarge">
                   <div class="w-layout-grid home6-header_content-wrapper">
                     <div class="home6-header_content-left">
-			    <h1 class="heading-4">piezas únicas</br>para tu espacio.</h1>
+			    <h1 class="heading-4">piezas únicas<br></br>para tu espacio.</h1>
                     </div>
                     <div class="home6-header_content-right">
-			    <p class="text-size-medium">El arte de marcar, cortar y dar vida a las ideas a través de la madera. Trabajamos sobre tus ideas para crear muebles personalizados.<br/></p>
+			    <p class="text-size-medium">El arte de marcar, cortar y dar vida a las ideas a través de la madera. Trabajamos sobre tus ideas para crear muebles personalizados.<br><br/></p>
                       <div class="margin-top margin-medium">
                         <div class="button-row">
                           <a href="contacto.html" class="button w-button">Ponte en contacto</a>
