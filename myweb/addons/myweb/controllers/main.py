@@ -3,7 +3,7 @@ from odoo.http import request
 
 class WsController(http.Controller):
     @http.route([
-        'mywebsite',
+        '/mywebsite',
         ], type='http', auth='public', website=True, cors='*')
     def main(self):
 
