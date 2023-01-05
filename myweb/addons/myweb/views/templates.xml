@@ -246,7 +246,7 @@ font-size: inherit;
                 <div class="w-layout-grid home6-feature_component">
                   <div class="home6-feature_content">
                     <div class="margin-bottom margin-small">
-			    <h2>Arquitectura</br></h2>
+			    <h2>Arquitectura<br></br></h2>
                     </div>
                     <div class="margin-bottom margin-medium">
                       <p class="text-size-medium">Desarrollamos proyectos arquitectónicos y ejecutivos de excelencia, mediante un análisis de las necesidades de nuestros clientes para determinar el mejor aprovechamiento del espacio, así como una distribución que vaya de la mano con su estilo de vida.</p>
