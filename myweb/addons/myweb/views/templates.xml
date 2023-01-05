@@ -286,7 +286,7 @@ font-size: inherit;
                 <div class="w-layout-grid home6-feature_component">
                   <div class="home6-feature_content">
                     <div class="margin-bottom margin-small">
-			    <h2>Construcción</br></h2>
+			    <h2>Construcción<br></br></h2>
                     </div>
                     <div class="margin-bottom margin-medium">
                       <p class="text-size-medium">Contamos con nuestro propio equipo de construcción, el cual se encarga de ejecutar el proyecto ejecutivo de manera eficaz, seguir el programa de obra, gestionar el presupuesto aprobado y supervisar que el proyecto se esté realizando de la manera correcta. </p>
@@ -326,7 +326,7 @@ font-size: inherit;
                 <div class="w-layout-grid home6-feature_component">
                   <div class="home6-feature_content">
                     <div class="margin-bottom margin-small">
-                      <h2>Remodelación<br></h2>
+			    <h2>Remodelación<br><br></h2>
                     </div>
                     <div class="margin-bottom margin-medium">
                       <p class="text-size-medium">Renovamos espacios de manera precisa, partiendo de las necesidades de nuestros clientes, siempre buscando crear ambientes sofisticados y funcionales que aprovechen cada metro cuadrado de manera eficaz.</p>
@@ -366,7 +366,7 @@ font-size: inherit;
                 <div class="w-layout-grid home6-feature_component">
                   <div class="home6-feature_content">
                     <div class="margin-bottom margin-small">
-                      <h2>Interiorismo<br></h2>
+			    <h2>Interiorismo<br></br></h2>
                     </div>
                     <div class="margin-bottom margin-medium">
                       <p class="text-size-medium">Jugamos con los acabados, materiales, texturas, telas, mobiliario y accesorios hasta dar con el estilo que mejor represente cada espacio, siempre buscando un diseño atemporal que refleja elegancia y sofisticación de manera perfecta.</p>
@@ -421,7 +421,7 @@ font-size: inherit;
                     <div class="margin-bottom margin-xsmall">
                       <h3 class="heading-small">residencias</h3>
                     </div>
-		    <p>Desarrollamos piezas para tu espacio aportándole vitalidad, funcionalidad y distinción adaptándonos a la estética de tu hogar.</br>‍</br>
+		    <p>Desarrollamos piezas para tu espacio aportándole vitalidad, funcionalidad y distinción adaptándonos a la estética de tu hogar.<br></br>‍</br>
                       <a href="contacto.html">Ponte en contacto &gt;</a>
                     </p>
                   </div>
@@ -432,7 +432,7 @@ font-size: inherit;
                     <div class="margin-bottom margin-xsmall">
                       <h3 class="heading-small">oficinas</h3>
                     </div>
-                    <p>Elevamos el estilo de tu espacio fabricando soluciones con base a las necesidades de tu equipo, oficina y rutina aportando piezas que incrementen la productividad y comodidad de las personas.<br>‍<br>
+		    <p>Elevamos el estilo de tu espacio fabricando soluciones con base a las necesidades de tu equipo, oficina y rutina aportando piezas que incrementen la productividad y comodidad de las personas.<br></br>‍<br></br>
                       <a href="contacto.html">Ponte en contacto &gt;</a>
                     </p>
                   </div>
@@ -775,7 +775,7 @@ font-size: inherit;
                 <div class="home6-cta_content">
                   <div class="max-width-large">
                     <div class="margin-bottom margin-xsmall">
-			    <h2>Contáctanos</br></h2>
+			    <h2>Contáctanos<br></br></h2>
                     </div>
                     <p class="text-size-medium">Deja que un asesor de MADA Studio te brinde toda la información que necesitas.</p>
                   </div>
@@ -799,7 +799,7 @@ font-size: inherit;
                   <div class="margin-bottom margin-small">
                     <h2>Preguntas Frecuentes</h2>
                   </div>
-		  <p class="text-size-medium">A continuación puedes encontrar algunas respuestas a tus dudas, y recuerda, siempre podrás contactarte con nosotros si necesitas más información.</br></p>
+		  <p class="text-size-medium">A continuación puedes encontrar algunas respuestas a tus dudas, y recuerda, siempre podrás contactarte con nosotros si necesitas más información.<br></br></p>
                 </div>
               </div>
               <div class="home6-faq_component">
@@ -840,7 +840,7 @@ font-size: inherit;
                 <div class="home6-cta_content">
                   <div class="max-width-large">
                     <div class="margin-bottom margin-xsmall">
-			    <h2>Comencemos</br></h2>
+			    <h2>Comencemos<br></br></h2>
                     </div>
                     <p class="text-size-medium">Deja que un asesor de MADA Studio te brinde toda la información que necesitas.</p>
                   </div>
