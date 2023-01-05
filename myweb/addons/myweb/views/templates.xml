@@ -116,10 +116,10 @@ font-size: inherit;
                 <div class="margin-bottom margin-xxlarge">
                   <div class="w-layout-grid home6-header_content-wrapper">
                     <div class="home6-header_content-left">
-                      <h1 class="heading-4">piezas únicas<br>para tu espacio.</h1>
+			    <h1 class="heading-4">piezas únicas</br>para tu espacio.</h1>
                     </div>
                     <div class="home6-header_content-right">
-                      <p class="text-size-medium">El arte de marcar, cortar y dar vida a las ideas a través de la madera. Trabajamos sobre tus ideas para crear muebles personalizados.<br></p>
+			    <p class="text-size-medium">El arte de marcar, cortar y dar vida a las ideas a través de la madera. Trabajamos sobre tus ideas para crear muebles personalizados.<br/></p>
                       <div class="margin-top margin-medium">
                         <div class="button-row">
                           <a href="contacto.html" class="button w-button">Ponte en contacto</a>
@@ -127,7 +127,7 @@ font-size: inherit;
                       </div>
                     </div>
                   </div>
-                </div><img src="images/cocina.jpg" loading="lazy" srcset="images/cocina-p-500.jpg 500w, images/cocina-p-800.jpg 800w, images/cocina-p-1080.jpg 1080w, images/cocina.jpg 1280w" sizes="100vw" alt="" class="image">
+	  </div><img src="images/cocina.jpg" loading="lazy" srcset="images/cocina-p-500.jpg 500w, images/cocina-p-800.jpg 800w, images/cocina-p-1080.jpg 1080w, images/cocina.jpg 1280w" sizes="100vw" alt="" class="image"/>
                 <div class="home6-header_image-wrapper"></div>
               </div>
             </div>
@@ -246,21 +246,21 @@ font-size: inherit;
                 <div class="w-layout-grid home6-feature_component">
                   <div class="home6-feature_content">
                     <div class="margin-bottom margin-small">
-                      <h2>Arquitectura<br></h2>
+			    <h2>Arquitectura</br></h2>
                     </div>
                     <div class="margin-bottom margin-medium">
                       <p class="text-size-medium">Desarrollamos proyectos arquitectónicos y ejecutivos de excelencia, mediante un análisis de las necesidades de nuestros clientes para determinar el mejor aprovechamiento del espacio, así como una distribución que vaya de la mano con su estilo de vida.</p>
                     </div>
                     <div class="w-layout-grid home6-feature_item-list hide">
                       <div class="home6-feature_text-wrapper">
-                        <div class="margin-bottom margin-xsmall"><img src="images/ico01.png" loading="lazy" alt="" class="icon-1x1-medium"></div>
+			      <div class="margin-bottom margin-xsmall"><img src="images/ico01.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus suscipit metus.</p>
                       </div>
                       <div class="home6-feature_text-wrapper">
-                        <div class="margin-bottom margin-xsmall"><img src="images/ico02.png" loading="lazy" alt="" class="icon-1x1-medium"></div>
+			      <div class="margin-bottom margin-xsmall"><img src="images/ico02.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
@@ -273,7 +273,7 @@ font-size: inherit;
                       </div>
                     </div>
                   </div>
-                  <div class="home6-feature_image-wrapper"><img src="images/01-diseno.jpg" loading="lazy" sizes="100vw" srcset="images/01-diseno-p-500.jpg 500w, images/01-diseno-p-800.jpg 800w, images/01-diseno.jpg 1000w" alt=""></div>
+		  <div class="home6-feature_image-wrapper"><img src="images/01-diseno.jpg" loading="lazy" sizes="100vw" srcset="images/01-diseno-p-500.jpg 500w, images/01-diseno-p-800.jpg 800w, images/01-diseno.jpg 1000w" alt=""/></div>
                 </div>
               </div>
             </div>
@@ -286,7 +286,7 @@ font-size: inherit;
                 <div class="w-layout-grid home6-feature_component">
                   <div class="home6-feature_content">
                     <div class="margin-bottom margin-small">
-                      <h2>Construcción<br></h2>
+			    <h2>Construcción</br></h2>
                     </div>
                     <div class="margin-bottom margin-medium">
                       <p class="text-size-medium">Contamos con nuestro propio equipo de construcción, el cual se encarga de ejecutar el proyecto ejecutivo de manera eficaz, seguir el programa de obra, gestionar el presupuesto aprobado y supervisar que el proyecto se esté realizando de la manera correcta. </p>
@@ -300,7 +300,7 @@ font-size: inherit;
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus suscipit metus.</p>
                       </div>
                       <div class="home6-feature_text-wrapper">
-                        <div class="margin-bottom margin-xsmall"><img src="images/ico04.png" loading="lazy" alt="" class="icon-1x1-medium"></div>
+			      <div class="margin-bottom margin-xsmall"><img src="images/ico04.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
@@ -313,7 +313,7 @@ font-size: inherit;
                       </div>
                     </div>
                   </div>
-                  <div class="home6-feature_image-wrapper"><img src="images/02-construccion.jpg" loading="lazy" sizes="100vw" srcset="images/02-construccion-p-500.jpg 500w, images/02-construccion-p-800.jpg 800w, images/02-construccion.jpg 1000w" alt=""></div>
+		  <div class="home6-feature_image-wrapper"><img src="images/02-construccion.jpg" loading="lazy" sizes="100vw" srcset="images/02-construccion-p-500.jpg 500w, images/02-construccion-p-800.jpg 800w, images/02-construccion.jpg 1000w" alt=""/></div>
                 </div>
               </div>
             </div>
@@ -333,14 +333,14 @@ font-size: inherit;
                     </div>
                     <div class="w-layout-grid home6-feature_item-list hide">
                       <div class="home6-feature_text-wrapper">
-                        <div class="margin-bottom margin-xsmall"><img src="images/ico05.png" loading="lazy" alt="" class="icon-1x1-medium"></div>
+			      <div class="margin-bottom margin-xsmall"><img src="images/ico05.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus suscipit metus.</p>
                       </div>
                       <div class="home6-feature_text-wrapper">
-                        <div class="margin-bottom margin-xsmall"><img src="images/ico06.png" loading="lazy" alt="" class="icon-1x1-medium"></div>
+			      <div class="margin-bottom margin-xsmall"><img src="images/ico06.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
@@ -353,7 +353,7 @@ font-size: inherit;
                       </div>
                     </div>
                   </div>
-                  <div class="home6-feature_image-wrapper"><img src="images/03-remodelacion.jpg" loading="lazy" sizes="100vw" srcset="images/03-remodelacion-p-500.jpg 500w, images/03-remodelacion-p-800.jpg 800w, images/03-remodelacion.jpg 1000w" alt=""></div>
+		  <div class="home6-feature_image-wrapper"><img src="images/03-remodelacion.jpg" loading="lazy" sizes="100vw" srcset="images/03-remodelacion-p-500.jpg 500w, images/03-remodelacion-p-800.jpg 800w, images/03-remodelacion.jpg 1000w" alt=""/></div>
                 </div>
               </div>
             </div>
@@ -373,14 +373,14 @@ font-size: inherit;
                     </div>
                     <div class="w-layout-grid home6-feature_item-list hide">
                       <div class="home6-feature_text-wrapper">
-                        <div class="margin-bottom margin-xsmall"><img src="images/ico05.png" loading="lazy" alt="" class="icon-1x1-medium"></div>
+			      <div class="margin-bottom margin-xsmall"><img src="images/ico05.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus suscipit metus.</p>
                       </div>
                       <div class="home6-feature_text-wrapper">
-                        <div class="margin-bottom margin-xsmall"><img src="images/ico06.png" loading="lazy" alt="" class="icon-1x1-medium"></div>
+			      <div class="margin-bottom margin-xsmall"><img src="images/ico06.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
@@ -393,7 +393,7 @@ font-size: inherit;
                       </div>
                     </div>
                   </div>
-                  <div class="home6-feature_image-wrapper"><img src="images/04-interior.jpg" loading="lazy" sizes="100vw" srcset="images/04-interior-p-500.jpg 500w, images/04-interior-p-800.jpg 800w, images/04-interior.jpg 1000w" alt=""></div>
+		  <div class="home6-feature_image-wrapper"><img src="images/04-interior.jpg" loading="lazy" sizes="100vw" srcset="images/04-interior-p-500.jpg 500w, images/04-interior-p-800.jpg 800w, images/04-interior.jpg 1000w" alt=""/></div>
                 </div>
               </div>
             </div>
@@ -416,18 +416,18 @@ font-size: inherit;
                 <div class="w-layout-grid home6-morefeatures_list">
                   <div class="home6-morefeatures_item">
                     <div class="margin-bottom margin-medium">
-                      <div class="home6-morefeatures_image-wrapper"><img src="images/residencias.jpg" loading="lazy" sizes="100vw" srcset="images/residencias-p-500.jpg 500w, images/residencias-p-800.jpg 800w, images/residencias-p-1080.jpg 1080w, images/residencias-p-1600.jpg 1600w, images/residencias-p-2000.jpg 2000w, images/residencias.jpg 2000w" alt=""></div>
+			    <div class="home6-morefeatures_image-wrapper"><img src="images/residencias.jpg" loading="lazy" sizes="100vw" srcset="images/residencias-p-500.jpg 500w, images/residencias-p-800.jpg 800w, images/residencias-p-1080.jpg 1080w, images/residencias-p-1600.jpg 1600w, images/residencias-p-2000.jpg 2000w, images/residencias.jpg 2000w" alt=""/></div>
                     </div>
                     <div class="margin-bottom margin-xsmall">
                       <h3 class="heading-small">residencias</h3>
                     </div>
-                    <p>Desarrollamos piezas para tu espacio aportándole vitalidad, funcionalidad y distinción adaptándonos a la estética de tu hogar.<br>‍<br>
+		    <p>Desarrollamos piezas para tu espacio aportándole vitalidad, funcionalidad y distinción adaptándonos a la estética de tu hogar.</br>‍</br>
                       <a href="contacto.html">Ponte en contacto &gt;</a>
                     </p>
                   </div>
                   <div class="home6-morefeatures_item">
                     <div class="margin-bottom margin-medium">
-                      <div class="home6-morefeatures_image-wrapper"><img src="images/oficinas.jpg" loading="lazy" sizes="100vw" srcset="images/oficinas-p-500.jpg 500w, images/oficinas.jpg 1000w" alt=""></div>
+			    <div class="home6-morefeatures_image-wrapper"><img src="images/oficinas.jpg" loading="lazy" sizes="100vw" srcset="images/oficinas-p-500.jpg 500w, images/oficinas.jpg 1000w" alt=""/></div>
                     </div>
                     <div class="margin-bottom margin-xsmall">
                       <h3 class="heading-small">oficinas</h3>
@@ -438,12 +438,12 @@ font-size: inherit;
                   </div>
                   <div class="home6-morefeatures_item">
                     <div class="margin-bottom margin-medium">
-                      <div class="home6-morefeatures_image-wrapper"><img src="images/spinit2.jpg" loading="lazy" height="" sizes="100vw" srcset="images/spinit2-p-500.jpg 500w, images/spinit2-p-800.jpg 800w, images/spinit2.jpg 1000w" alt=""></div>
+			    <div class="home6-morefeatures_image-wrapper"><img src="images/spinit2.jpg" loading="lazy" height="" sizes="100vw" srcset="images/spinit2-p-500.jpg 500w, images/spinit2-p-800.jpg 800w, images/spinit2.jpg 1000w" alt=""/></div>
                     </div>
                     <div class="margin-bottom margin-xsmall">
                       <h3 class="heading-small">Comercios</h3>
                     </div>
-                    <p>Trabajamos sobre una idea de proyecto que complemente y refuerce la personalidad del negocio añadiendo elementos que brindarán una atmósfera única.<br>‍<br>
+		    <p>Trabajamos sobre una idea de proyecto que complemente y refuerce la personalidad del negocio añadiendo elementos que brindarán una atmósfera única.</br>‍</br>
                       <a href="contacto.html">Ponte en contacto &gt;</a>
                     </p>
                   </div>
@@ -467,7 +467,7 @@ font-size: inherit;
                 </div>
               </div>
               <div class="gallery10_component">
-                <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/proyectos-07.jpg" loading="lazy" sizes="100vw" srcset="images/proyectos-07-p-500.jpg 500w, images/proyectos-07-p-800.jpg 800w, images/proyectos-07-p-1080.jpg 1080w, images/proyectos-07-p-1600.jpg 1600w, images/proyectos-07.jpg 1920w" alt="" class="gallery10_image">
+		      <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/proyectos-07.jpg" loading="lazy" sizes="100vw" srcset="images/proyectos-07-p-500.jpg 500w, images/proyectos-07-p-800.jpg 800w, images/proyectos-07-p-1080.jpg 1080w, images/proyectos-07-p-1600.jpg 1600w, images/proyectos-07.jpg 1920w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -484,7 +484,7 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-                <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/cocina.jpg" loading="lazy" sizes="100vw" srcset="images/cocina-p-500.jpg 500w, images/cocina-p-800.jpg 800w, images/cocina-p-1080.jpg 1080w, images/cocina.jpg 1280w" alt="" class="gallery10_image">
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/cocina.jpg" loading="lazy" sizes="100vw" srcset="images/cocina-p-500.jpg 500w, images/cocina-p-800.jpg 800w, images/cocina-p-1080.jpg 1080w, images/cocina.jpg 1280w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -501,7 +501,7 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-                <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/proyectos-08.jpg" loading="lazy" sizes="100vw" srcset="images/proyectos-08-p-500.jpg 500w, images/proyectos-08-p-800.jpg 800w, images/proyectos-08-p-1080.jpg 1080w, images/proyectos-08-p-1600.jpg 1600w, images/proyectos-08.jpg 1920w" alt="" class="gallery10_image">
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/proyectos-08.jpg" loading="lazy" sizes="100vw" srcset="images/proyectos-08-p-500.jpg 500w, images/proyectos-08-p-800.jpg 800w, images/proyectos-08-p-1080.jpg 1080w, images/proyectos-08-p-1600.jpg 1600w, images/proyectos-08.jpg 1920w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -518,7 +518,7 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-                <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/recamara.png" loading="lazy" sizes="100vw" srcset="images/recamara-p-500.png 500w, images/recamara-p-800.png 800w, images/recamara.png 1024w" alt="" class="gallery10_image">
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/recamara.png" loading="lazy" sizes="100vw" srcset="images/recamara-p-500.png 500w, images/recamara-p-800.png 800w, images/recamara.png 1024w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -535,7 +535,7 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-                <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/bañoniña.jpg" loading="lazy" sizes="100vw" srcset="images/bañoniña-p-500.jpg 500w, images/bañoniña-p-800.jpg 800w, images/bañoniña-p-1080.jpg 1080w, images/bañoniña.jpg 2000w" alt="" class="gallery10_image">
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/bañoniña.jpg" loading="lazy" sizes="100vw" srcset="images/bañoniña-p-500.jpg 500w, images/bañoniña-p-800.jpg 800w, images/bañoniña-p-1080.jpg 1080w, images/bañoniña.jpg 2000w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -552,7 +552,7 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-                <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/01-BAÑO-PPAL.jpg" loading="lazy" sizes="100vw" srcset="images/01-BAÑO-PPAL-p-500.jpg 500w, images/01-BAÑO-PPAL-p-800.jpg 800w, images/01-BAÑO-PPAL-p-1080.jpg 1080w, images/01-BAÑO-PPAL-p-1600.jpg 1600w, images/01-BAÑO-PPAL-p-2000.jpg 2000w, images/01-BAÑO-PPAL.jpg 2000w" alt="" class="gallery10_image">
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/01-BAÑO-PPAL.jpg" loading="lazy" sizes="100vw" srcset="images/01-BAÑO-PPAL-p-500.jpg 500w, images/01-BAÑO-PPAL-p-800.jpg 800w, images/01-BAÑO-PPAL-p-1080.jpg 1080w, images/01-BAÑO-PPAL-p-1600.jpg 1600w, images/01-BAÑO-PPAL-p-2000.jpg 2000w, images/01-BAÑO-PPAL.jpg 2000w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -569,7 +569,7 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-                <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/proyectos-09.jpg" loading="lazy" sizes="100vw" srcset="images/proyectos-09-p-500.jpg 500w, images/proyectos-09-p-800.jpg 800w, images/proyectos-09-p-1080.jpg 1080w, images/proyectos-09-p-1600.jpg 1600w, images/proyectos-09.jpg 1920w" alt="" class="gallery10_image">
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/proyectos-09.jpg" loading="lazy" sizes="100vw" srcset="images/proyectos-09-p-500.jpg 500w, images/proyectos-09-p-800.jpg 800w, images/proyectos-09-p-1080.jpg 1080w, images/proyectos-09-p-1600.jpg 1600w, images/proyectos-09.jpg 1920w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -586,7 +586,7 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-                <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/cocina.png" loading="lazy" sizes="100vw" srcset="images/cocina-p-500.png 500w, images/cocina-p-800.png 800w, images/cocina.png 1024w" alt="" class="gallery10_image">
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/cocina.png" loading="lazy" sizes="100vw" srcset="images/cocina-p-500.png 500w, images/cocina-p-800.png 800w, images/cocina.png 1024w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -603,7 +603,7 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-                <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/oficina.png" loading="lazy" sizes="100vw" srcset="images/oficina-p-500.png 500w, images/oficina-p-800.png 800w, images/oficina.png 1024w" alt="" class="gallery10_image">
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/oficina.png" loading="lazy" sizes="100vw" srcset="images/oficina-p-500.png 500w, images/oficina-p-800.png 800w, images/oficina.png 1024w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -620,7 +620,7 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-                <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/comedor.jpg" loading="lazy" sizes="100vw" srcset="images/comedor-p-500.jpg 500w, images/comedor-p-800.jpg 800w, images/comedor-p-1080.jpg 1080w, images/comedor.jpg 2000w" alt="" class="gallery10_image">
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/comedor.jpg" loading="lazy" sizes="100vw" srcset="images/comedor-p-500.jpg 500w, images/comedor-p-800.jpg 800w, images/comedor-p-1080.jpg 1080w, images/comedor.jpg 2000w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -732,7 +732,7 @@ font-size: inherit;
                     </div>
                   </div>
                   <div class="margin-bottom margin-medium">
-                    <p class="text-size-medium-3">Somos una empresa mexicana especializada en la creación de piezas únicas a base de madera.<br><br>Combinamos lo artesanal y la complejidad de lo moderno para dar forma a las ideas a través de la madera, nuestra misión es elevar la calidad de vida de las personas, aportando muebles personalizados, funcionales y duraderos que les permitan disfrutar de su hogar, trabajo y proyecto.<br>‍<br>Distinguiéndonos por la calidad de nuestras piezas, elaboradas con detalle y precisión, produciendo obras de arte que alimentan un espacio, un rincón y una vida.</p>
+			  <p class="text-size-medium-3">Somos una empresa mexicana especializada en la creación de piezas únicas a base de madera.</br></br>Combinamos lo artesanal y la complejidad de lo moderno para dar forma a las ideas a través de la madera, nuestra misión es elevar la calidad de vida de las personas, aportando muebles personalizados, funcionales y duraderos que les permitan disfrutar de su hogar, trabajo y proyecto.</br>‍</br>Distinguiéndonos por la calidad de nuestras piezas, elaboradas con detalle y precisión, produciendo obras de arte que alimentan un espacio, un rincón y una vida.</p>
                   </div>
                   <div class="w-layout-grid about3-growth_item-list">
                     <div class="about3-growth_text-wrapper">
@@ -761,7 +761,7 @@ font-size: inherit;
                     </div>
                   </div>
                 </div>
-                <div class="about3-growth_image-wrapper"><img src="images/nosotros.jpg" loading="lazy" sizes="100vw" srcset="images/nosotros-p-500.jpg 500w, images/nosotros-p-800.jpg 800w, images/nosotros-p-1080.jpg 1080w, images/nosotros.jpg 1125w" alt=""></div>
+		<div class="about3-growth_image-wrapper"><img src="images/nosotros.jpg" loading="lazy" sizes="100vw" srcset="images/nosotros-p-500.jpg 500w, images/nosotros-p-800.jpg 800w, images/nosotros-p-1080.jpg 1080w, images/nosotros.jpg 1125w" alt=""/></div>
               </div>
             </div>
           </div>
@@ -775,7 +775,7 @@ font-size: inherit;
                 <div class="home6-cta_content">
                   <div class="max-width-large">
                     <div class="margin-bottom margin-xsmall">
-                      <h2>Contáctanos<br></h2>
+			    <h2>Contáctanos</br></h2>
                     </div>
                     <p class="text-size-medium">Deja que un asesor de MADA Studio te brinde toda la información que necesitas.</p>
                   </div>
@@ -799,7 +799,7 @@ font-size: inherit;
                   <div class="margin-bottom margin-small">
                     <h2>Preguntas Frecuentes</h2>
                   </div>
-                  <p class="text-size-medium">A continuación puedes encontrar algunas respuestas a tus dudas, y recuerda, siempre podrás contactarte con nosotros si necesitas más información.<br></p>
+		  <p class="text-size-medium">A continuación puedes encontrar algunas respuestas a tus dudas, y recuerda, siempre podrás contactarte con nosotros si necesitas más información.</br></p>
                 </div>
               </div>
               <div class="home6-faq_component">
@@ -840,7 +840,7 @@ font-size: inherit;
                 <div class="home6-cta_content">
                   <div class="max-width-large">
                     <div class="margin-bottom margin-xsmall">
-                      <h2>Comencemos<br></h2>
+			    <h2>Comencemos</br></h2>
                     </div>
                     <p class="text-size-medium">Deja que un asesor de MADA Studio te brinde toda la información que necesitas.</p>
                   </div>
@@ -862,7 +862,7 @@ font-size: inherit;
           <div class="padding-vertical padding-xxlarge footer">
             <div class="padding-top padding-medium">
               <div class="footer6_bottom-wrapper">
-                <a href="#" class="footer6_logo-link w-nav-brand"><img src="images/logo-mada-negro.png" loading="lazy" width="126" alt=""></a>
+		      <a href="#" class="footer6_logo-link w-nav-brand"><img src="images/logo-mada-negro.png" loading="lazy" width="126" alt=""/></a>
                 <div id="w-node-_6724f9a6-8d0a-07d0-2734-d0aa6becd58f-6becd586" class="footer6_credit-text">© 2022 MADA Studio. Todos los derechos reservados</div>
               </div>
             </div>
