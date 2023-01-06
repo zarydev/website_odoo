@@ -253,14 +253,14 @@ font-size: inherit;
                     </div>
                     <div class="w-layout-grid home6-feature_item-list hide">
                       <div class="home6-feature_text-wrapper">
-			      <div class="margin-bottom margin-xsmall"><img src="images/ico01.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
+			      <div class="margin-bottom margin-xsmall"><img src="myweb/static/images/ico01.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus suscipit metus.</p>
                       </div>
                       <div class="home6-feature_text-wrapper">
-			      <div class="margin-bottom margin-xsmall"><img src="images/ico02.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
+			      <div class="margin-bottom margin-xsmall"><img src="myweb/static/images/ico02.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
@@ -273,7 +273,7 @@ font-size: inherit;
                       </div>
                     </div>
                   </div>
-		  <div class="home6-feature_image-wrapper"><img src="images/01-diseno.jpg" loading="lazy" sizes="100vw" srcset="images/01-diseno-p-500.jpg 500w, images/01-diseno-p-800.jpg 800w, images/01-diseno.jpg 1000w" alt=""/></div>
+		  <div class="home6-feature_image-wrapper"><img src="myweb/static/images/01-diseno.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/01-diseno-p-500.jpg 500w, myweb/static/images/01-diseno-p-800.jpg 800w, myweb/static/images/01-diseno.jpg 1000w" alt=""/></div>
                 </div>
               </div>
             </div>
@@ -293,14 +293,14 @@ font-size: inherit;
                     </div>
                     <div class="w-layout-grid home6-feature_item-list hide">
                       <div class="home6-feature_text-wrapper">
-			      <div class="margin-bottom margin-xsmall"><img src="images/ico03.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
+			      <div class="margin-bottom margin-xsmall"><img src="myweb/static/images/ico03.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus suscipit metus.</p>
                       </div>
                       <div class="home6-feature_text-wrapper">
-			      <div class="margin-bottom margin-xsmall"><img src="images/ico04.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
+			      <div class="margin-bottom margin-xsmall"><img src="myweb/static/images/ico04.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
@@ -313,7 +313,7 @@ font-size: inherit;
                       </div>
                     </div>
                   </div>
-		  <div class="home6-feature_image-wrapper"><img src="images/02-construccion.jpg" loading="lazy" sizes="100vw" srcset="images/02-construccion-p-500.jpg 500w, images/02-construccion-p-800.jpg 800w, images/02-construccion.jpg 1000w" alt=""/></div>
+		  <div class="home6-feature_image-wrapper"><img src="myweb/static/images/02-construccion.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/02-construccion-p-500.jpg 500w, myweb/static/images/02-construccion-p-800.jpg 800w, myweb/static/images/02-construccion.jpg 1000w" alt=""/></div>
                 </div>
               </div>
             </div>
@@ -333,14 +333,14 @@ font-size: inherit;
                     </div>
                     <div class="w-layout-grid home6-feature_item-list hide">
                       <div class="home6-feature_text-wrapper">
-			      <div class="margin-bottom margin-xsmall"><img src="images/ico05.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
+			      <div class="margin-bottom margin-xsmall"><img src="myweb/static/images/ico05.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus suscipit metus.</p>
                       </div>
                       <div class="home6-feature_text-wrapper">
-			      <div class="margin-bottom margin-xsmall"><img src="images/ico06.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
+			      <div class="margin-bottom margin-xsmall"><img src="myweb/static/images/ico06.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
@@ -353,7 +353,7 @@ font-size: inherit;
                       </div>
                     </div>
                   </div>
-		  <div class="home6-feature_image-wrapper"><img src="images/03-remodelacion.jpg" loading="lazy" sizes="100vw" srcset="images/03-remodelacion-p-500.jpg 500w, images/03-remodelacion-p-800.jpg 800w, images/03-remodelacion.jpg 1000w" alt=""/></div>
+		  <div class="home6-feature_image-wrapper"><img src="myweb/static/images/03-remodelacion.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/03-remodelacion-p-500.jpg 500w, myweb/static/images/03-remodelacion-p-800.jpg 800w, myweb/static/images/03-remodelacion.jpg 1000w" alt=""/></div>
                 </div>
               </div>
             </div>
@@ -373,14 +373,14 @@ font-size: inherit;
                     </div>
                     <div class="w-layout-grid home6-feature_item-list hide">
                       <div class="home6-feature_text-wrapper">
-			      <div class="margin-bottom margin-xsmall"><img src="images/ico05.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
+			      <div class="margin-bottom margin-xsmall"><img src="myweb/static/images/ico05.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus suscipit metus.</p>
                       </div>
                       <div class="home6-feature_text-wrapper">
-			      <div class="margin-bottom margin-xsmall"><img src="images/ico06.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
+			      <div class="margin-bottom margin-xsmall"><img src="myweb/static/images/ico06.png" loading="lazy" alt="" class="icon-1x1-medium"/></div>
                         <div class="margin-bottom margin-xsmall">
                           <h6>Lorem ipsum dolor</h6>
                         </div>
@@ -393,7 +393,7 @@ font-size: inherit;
                       </div>
                     </div>
                   </div>
-		  <div class="home6-feature_image-wrapper"><img src="images/04-interior.jpg" loading="lazy" sizes="100vw" srcset="images/04-interior-p-500.jpg 500w, images/04-interior-p-800.jpg 800w, images/04-interior.jpg 1000w" alt=""/></div>
+		  <div class="home6-feature_image-wrapper"><img src="myweb/static/images/04-interior.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/04-interior-p-500.jpg 500w, myweb/static/images/04-interior-p-800.jpg 800w, myweb/static/images/04-interior.jpg 1000w" alt=""/></div>
                 </div>
               </div>
             </div>
@@ -416,7 +416,7 @@ font-size: inherit;
                 <div class="w-layout-grid home6-morefeatures_list">
                   <div class="home6-morefeatures_item">
                     <div class="margin-bottom margin-medium">
-			    <div class="home6-morefeatures_image-wrapper"><img src="images/residencias.jpg" loading="lazy" sizes="100vw" srcset="images/residencias-p-500.jpg 500w, images/residencias-p-800.jpg 800w, images/residencias-p-1080.jpg 1080w, images/residencias-p-1600.jpg 1600w, images/residencias-p-2000.jpg 2000w, images/residencias.jpg 2000w" alt=""/></div>
+			    <div class="home6-morefeatures_image-wrapper"><img src="myweb/static/images/residencias.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/residencias-p-500.jpg 500w, myweb/static/images/residencias-p-800.jpg 800w, myweb/static/images/residencias-p-1080.jpg 1080w, myweb/static/images/residencias-p-1600.jpg 1600w, myweb/static/images/residencias-p-2000.jpg 2000w, myweb/static/images/residencias.jpg 2000w" alt=""/></div>
                     </div>
                     <div class="margin-bottom margin-xsmall">
                       <h3 class="heading-small">residencias</h3>
@@ -427,7 +427,7 @@ font-size: inherit;
                   </div>
                   <div class="home6-morefeatures_item">
                     <div class="margin-bottom margin-medium">
-			    <div class="home6-morefeatures_image-wrapper"><img src="images/oficinas.jpg" loading="lazy" sizes="100vw" srcset="images/oficinas-p-500.jpg 500w, images/oficinas.jpg 1000w" alt=""/></div>
+			    <div class="home6-morefeatures_image-wrapper"><img src="myweb/static/images/oficinas.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/oficinas-p-500.jpg 500w, myweb/static/images/oficinas.jpg 1000w" alt=""/></div>
                     </div>
                     <div class="margin-bottom margin-xsmall">
                       <h3 class="heading-small">oficinas</h3>
@@ -438,7 +438,7 @@ font-size: inherit;
                   </div>
                   <div class="home6-morefeatures_item">
                     <div class="margin-bottom margin-medium">
-			    <div class="home6-morefeatures_image-wrapper"><img src="images/spinit2.jpg" loading="lazy" height="" sizes="100vw" srcset="images/spinit2-p-500.jpg 500w, images/spinit2-p-800.jpg 800w, images/spinit2.jpg 1000w" alt=""/></div>
+			    <div class="home6-morefeatures_image-wrapper"><img src="myweb/static/images/spinit2.jpg" loading="lazy" height="" sizes="100vw" srcset="myweb/static/images/spinit2-p-500.jpg 500w, myweb/static/images/spinit2-p-800.jpg 800w, myweb/static/images/spinit2.jpg 1000w" alt=""/></div>
                     </div>
                     <div class="margin-bottom margin-xsmall">
                       <h3 class="heading-small">Comercios</h3>
@@ -467,8 +467,8 @@ font-size: inherit;
                 </div>
               </div>
               <div class="gallery10_component">
-		      <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/proyectos-07.jpg" loading="lazy" sizes="100vw" srcset="images/proyectos-07-p-500.jpg 500w, images/proyectos-07-p-800.jpg 800w, images/proyectos-07-p-1080.jpg 1080w, images/proyectos-07-p-1600.jpg 1600w, images/proyectos-07.jpg 1920w" alt="" class="gallery10_image"/>
-                  <script type="application/json" class="w-json">{
+		      <a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="myweb/static/images/proyectos-07.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/proyectos-07-p-500.jpg 500w, myweb/static/images/proyectos-07-p-800.jpg 800w, myweb/static/images/proyectos-07-p-1080.jpg 1080w, myweb/static/images/proyectos-07-p-1600.jpg 1600w, myweb/static/images/proyectos-07.jpg 1920w" alt="" class="gallery10_image"/>
+			      <script type="myweb/static/js/application/json" class="w-json">{
   "items": [
     {
       "_id": "example_img",
@@ -484,8 +484,8 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/cocina.jpg" loading="lazy" sizes="100vw" srcset="images/cocina-p-500.jpg 500w, images/cocina-p-800.jpg 800w, images/cocina-p-1080.jpg 1080w, images/cocina.jpg 1280w" alt="" class="gallery10_image"/>
-                  <script type="application/json" class="w-json">{
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="myweb/static/images/cocina.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/cocina-p-500.jpg 500w, myweb/static/images/cocina-p-800.jpg 800w, myweb/static/images/cocina-p-1080.jpg 1080w, myweb/static/images/cocina.jpg 1280w" alt="" class="gallery10_image"/>
+			<script type="myweb/static/js/application/json" class="w-json">{
   "items": [
     {
       "_id": "example_img",
@@ -501,8 +501,8 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/proyectos-08.jpg" loading="lazy" sizes="100vw" srcset="images/proyectos-08-p-500.jpg 500w, images/proyectos-08-p-800.jpg 800w, images/proyectos-08-p-1080.jpg 1080w, images/proyectos-08-p-1600.jpg 1600w, images/proyectos-08.jpg 1920w" alt="" class="gallery10_image"/>
-                  <script type="application/json" class="w-json">{
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="myweb/static/images/proyectos-08.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/proyectos-08-p-500.jpg 500w, images/proyectos-08-p-800.jpg 800w, myweb/static/images/proyectos-08-p-1080.jpg 1080w, myweb/static/images/proyectos-08-p-1600.jpg 1600w, myweb/static/images/proyectos-08.jpg 1920w" alt="" class="gallery10_image"/>
+			<script type="myweb/static/js/application/json" class="w-json">{
   "items": [
     {
       "_id": "example_img",
@@ -518,8 +518,8 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/recamara.png" loading="lazy" sizes="100vw" srcset="images/recamara-p-500.png 500w, images/recamara-p-800.png 800w, images/recamara.png 1024w" alt="" class="gallery10_image"/>
-                  <script type="application/json" class="w-json">{
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="myweb/static/images/recamara.png" loading="lazy" sizes="100vw" srcset="myweb/static/images/recamara-p-500.png 500w, myweb/static/images/recamara-p-800.png 800w, myweb/static/images/recamara.png 1024w" alt="" class="gallery10_image"/>
+			<script type="myweb/static/js/application/json" class="w-json">{
   "items": [
     {
       "_id": "example_img",
@@ -535,8 +535,8 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/bañoniña.jpg" loading="lazy" sizes="100vw" srcset="images/bañoniña-p-500.jpg 500w, images/bañoniña-p-800.jpg 800w, images/bañoniña-p-1080.jpg 1080w, images/bañoniña.jpg 2000w" alt="" class="gallery10_image"/>
-                  <script type="application/json" class="w-json">{
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="myweb/static/images/bañoniña.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/bañoniña-p-500.jpg 500w, myweb/static/images/bañoniña-p-800.jpg 800w, myweb/static/images/bañoniña-p-1080.jpg 1080w, myweb/static/images/bañoniña.jpg 2000w" alt="" class="gallery10_image"/>
+                  <script type="myweb/static/application/json" class="w-json">{
   "items": [
     {
       "_id": "example_img",
@@ -552,8 +552,8 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/01-BAÑO-PPAL.jpg" loading="lazy" sizes="100vw" srcset="images/01-BAÑO-PPAL-p-500.jpg 500w, images/01-BAÑO-PPAL-p-800.jpg 800w, images/01-BAÑO-PPAL-p-1080.jpg 1080w, images/01-BAÑO-PPAL-p-1600.jpg 1600w, images/01-BAÑO-PPAL-p-2000.jpg 2000w, images/01-BAÑO-PPAL.jpg 2000w" alt="" class="gallery10_image"/>
-                  <script type="application/json" class="w-json">{
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="myweb/static/images/01-BAÑO-PPAL.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/01-BAÑO-PPAL-p-500.jpg 500w, myweb/static/images/01-BAÑO-PPAL-p-800.jpg 800w, myweb/static/images/01-BAÑO-PPAL-p-1080.jpg 1080w, myweb/static/images/01-BAÑO-PPAL-p-1600.jpg 1600w, myweb/static/images/01-BAÑO-PPAL-p-2000.jpg 2000w, myweb/static/images/01-BAÑO-PPAL.jpg 2000w" alt="" class="gallery10_image"/>
+			<script type="myweb/static/js/application/json" class="w-json">{
   "items": [
     {
       "_id": "example_img",
@@ -569,8 +569,8 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/proyectos-09.jpg" loading="lazy" sizes="100vw" srcset="images/proyectos-09-p-500.jpg 500w, images/proyectos-09-p-800.jpg 800w, images/proyectos-09-p-1080.jpg 1080w, images/proyectos-09-p-1600.jpg 1600w, images/proyectos-09.jpg 1920w" alt="" class="gallery10_image"/>
-                  <script type="application/json" class="w-json">{
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="myweb/static/images/proyectos-09.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/proyectos-09-p-500.jpg 500w, myweb/static/images/proyectos-09-p-800.jpg 800w, myweb/static/images/proyectos-09-p-1080.jpg 1080w, myweb/static/images/proyectos-09-p-1600.jpg 1600w, myweb/static/images/proyectos-09.jpg 1920w" alt="" class="gallery10_image"/>
+			<script type="myweb/static/js/application/json" class="w-json">{
   "items": [
     {
       "_id": "example_img",
@@ -586,8 +586,8 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/cocina.png" loading="lazy" sizes="100vw" srcset="images/cocina-p-500.png 500w, images/cocina-p-800.png 800w, images/cocina.png 1024w" alt="" class="gallery10_image"/>
-                  <script type="application/json" class="w-json">{
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="myweb/static/images/cocina.png" loading="lazy" sizes="100vw" srcset="myweb/static/images/cocina-p-500.png 500w, myweb/static/images/cocina-p-800.png 800w, myweb/static/images/cocina.png 1024w" alt="" class="gallery10_image"/>
+			<script type="myweb/static/js/application/json" class="w-json">{
   "items": [
     {
       "_id": "example_img",
@@ -603,8 +603,8 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/oficina.png" loading="lazy" sizes="100vw" srcset="images/oficina-p-500.png 500w, images/oficina-p-800.png 800w, images/oficina.png 1024w" alt="" class="gallery10_image"/>
-                  <script type="application/json" class="w-json">{
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="myweb/static/images/oficina.png" loading="lazy" sizes="100vw" srcset="myweb/static/images/oficina-p-500.png 500w, myweb/static/images/oficina-p-800.png 800w, myweb/static/images/oficina.png 1024w" alt="" class="gallery10_image"/>
+                  <script type="myweb/static/application/json" class="w-json">{
   "items": [
     {
       "_id": "example_img",
@@ -620,7 +620,7 @@ font-size: inherit;
   "group": "proyectos"
 }</script>
                 </a>
-		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="images/comedor.jpg" loading="lazy" sizes="100vw" srcset="images/comedor-p-500.jpg 500w, images/comedor-p-800.jpg 800w, images/comedor-p-1080.jpg 1080w, images/comedor.jpg 2000w" alt="" class="gallery10_image"/>
+		<a href="#" class="gallery10_lightbox-link w-inline-block w-lightbox"><img src="myweb/static/images/comedor.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/comedor-p-500.jpg 500w, myweb/static/images/comedor-p-800.jpg 800w, myweb/static/images/comedor-p-1080.jpg 1080w, myweb/static/images/comedor.jpg 2000w" alt="" class="gallery10_image"/>
                   <script type="application/json" class="w-json">{
   "items": [
     {
@@ -761,7 +761,7 @@ font-size: inherit;
                     </div>
                   </div>
                 </div>
-		<div class="about3-growth_image-wrapper"><img src="images/nosotros.jpg" loading="lazy" sizes="100vw" srcset="images/nosotros-p-500.jpg 500w, images/nosotros-p-800.jpg 800w, images/nosotros-p-1080.jpg 1080w, images/nosotros.jpg 1125w" alt=""/></div>
+		<div class="about3-growth_image-wrapper"><img src="images/nosotros.jpg" loading="lazy" sizes="100vw" srcset="myweb/static/images/nosotros-p-500.jpg 500w, myweb/static/images/nosotros-p-800.jpg 800w, myweb/static/images/nosotros-p-1080.jpg 1080w, myweb/static/images/nosotros.jpg 1125w" alt=""/></div>
               </div>
             </div>
           </div>
@@ -862,7 +862,7 @@ font-size: inherit;
           <div class="padding-vertical padding-xxlarge footer">
             <div class="padding-top padding-medium">
               <div class="footer6_bottom-wrapper">
-		      <a href="#" class="footer6_logo-link w-nav-brand"><img src="images/logo-mada-negro.png" loading="lazy" width="126" alt=""/></a>
+		      <a href="#" class="footer6_logo-link w-nav-brand"><img src="myweb/static/images/logo-mada-negro.png" loading="lazy" width="126" alt=""/></a>
                 <div id="w-node-_6724f9a6-8d0a-07d0-2734-d0aa6becd58f-6becd586" class="footer6_credit-text">© 2022 MADA Studio. Todos los derechos reservados</div>
               </div>
             </div>
