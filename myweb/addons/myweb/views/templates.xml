@@ -7,11 +7,11 @@
   <meta charset="utf-8"/>
   <title>Mada Studio</title>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
-  <link href="css/normalize.css" rel="stylesheet" type="text/css"/>
-  <link href="css/components.css" rel="stylesheet" type="text/css"/>
-  <link href="css/mada-studio.css" rel="stylesheet" type="text/css"/>
-  <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
-  <link href="images/webclip.png" rel="apple-touch-icon"/>
+  <link href="static/css/normalize.css" rel="stylesheet" type="text/css"/>
+  <link href="static/css/components.css" rel="stylesheet" type="text/css"/>
+  <link href="static/css/mada-studio.css" rel="stylesheet" type="text/css"/>
+  <link href="static/images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+  <link href="static/images/webclip.png" rel="apple-touch-icon"/>
   <style>
   * {
   -webkit-font-smoothing: antialiased;
