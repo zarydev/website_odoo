@@ -93,7 +93,7 @@ font-size: inherit;
 	      <a href="index.html" aria-current="page" class="navbar11_logo-link w-nav-brand w--current"><img src="myweb/static/images/logo-mada-negro.png" loading="lazy" width="136" alt=""/></a>
         <nav role="navigation" class="navbar11_menu w-nav-menu">
           <div class="navbar11_menu-buttons">
-		  <a href="myweb/contacto.html" class="button w-button">Ponte en contacto</a>
+		  <a href="myweb/static/contacto.html" class="button w-button">Ponte en contacto</a>
           </div>
         </nav>
         <div class="navbar11_menu-button w-nav-button">
