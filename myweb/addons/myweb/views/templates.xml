@@ -93,7 +93,7 @@ font-size: inherit;
 	      <a href="index.html" aria-current="page" class="navbar11_logo-link w-nav-brand w--current"><img src="myweb/static/images/logo-mada-negro.png" loading="lazy" width="136" alt=""/></a>
         <nav role="navigation" class="navbar11_menu w-nav-menu">
           <div class="navbar11_menu-buttons">
-            <a href="contacto.html" class="button w-button">Ponte en contacto</a>
+		  <a href="myweb/contacto.html" class="button w-button">Ponte en contacto</a>
           </div>
         </nav>
         <div class="navbar11_menu-button w-nav-button">
@@ -122,12 +122,12 @@ font-size: inherit;
 			    <p class="text-size-medium">El arte de marcar, cortar y dar vida a las ideas a través de la madera. Trabajamos sobre tus ideas para crear muebles personalizados.</p>
                       <div class="margin-top margin-medium">
                         <div class="button-row">
-                          <a href="contacto.html" class="button w-button">Ponte en contacto</a>
+				<a href="myweb/contacto.html" class="button w-button">Ponte en contacto</a>
                         </div>
                       </div>
                     </div>
                   </div>
-	  </div><img src="images/cocina.jpg" loading="lazy" srcset="myweb/static/images/cocina-p-500.jpg 500w, myweb/static/images/cocina-p-800.jpg 800w, myweb/static/images/cocina-p-1080.jpg 1080w, myweb/static/images/cocina.jpg 1280w" sizes="100vw" alt="" class="image"/>
+	  </div><img src="myweb/static/images/cocina.jpg" loading="lazy" srcset="myweb/static/images/cocina-p-500.jpg 500w, myweb/static/images/cocina-p-800.jpg 800w, myweb/static/images/cocina-p-1080.jpg 1080w, myweb/static/images/cocina.jpg 1280w" sizes="100vw" alt="" class="image"/>
                 <div class="home6-header_image-wrapper"></div>
               </div>
             </div>
