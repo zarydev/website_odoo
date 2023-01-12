@@ -12,8 +12,8 @@
   <link href="myweb/static/css/normalize.css" rel="stylesheet" type="text/css"/>
   <link href="myweb/static/css/components.css" rel="stylesheet" type="text/css"/>
   <link href="myweb/static/css/mada-studio.css" rel="stylesheet" type="text/css"/>
-  <link href="myweb/static/images/favicon.png" rel="shortcut icon" type="myweb/static/image/x-icon">
-  <link href="myweb/static/images/webclip.png" rel="apple-touch-icon"><!--  Please keep this css code to improve the font quality -->
+  <link href="myweb/static/images/favicon.png" rel="shortcut icon" type="myweb/static/image/x-icon"/>
+  <link href="myweb/static/images/webclip.png" rel="apple-touch-icon"/>
   <style>
   * {
   -webkit-font-smoothing: antialiased;
