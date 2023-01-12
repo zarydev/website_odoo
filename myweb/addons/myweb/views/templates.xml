@@ -63,7 +63,8 @@
               </div>
               <p class="text-size-medium"><strong>o deja tus datos en el siguiente formulario:</strong></p>
               <div class="contact9_form-block w-form">
-                <form id="wf-form-Contact-9-Form" action="/create/crmclient" name="wf-form-Contact-9-Form" data-name="Contact 9 Form" method="post" class="contact9_form">
+		      <form id="wf-form-Contact-9-Form" action="/create/crmclient" name="wf-form-Contact-9-Form" data-name="Contact 9 Form" method="post" class="contact9_form">
+			      <input type="hidden" name="csrf_token" t-att-vaule="request.csrf_token()"/>
 			<div class="form-field-wrapper"><label for="Contact-9-Name" class="field-label">Nombre</label><input type="text" class="form-input w-input" maxlength="256" name="Contact-9-Name" data-name="Contact 9 Name" placeholder="" id="Contact-9-Name" required=""/></div>
 			<div class="form-field-wrapper"><label for="Contact-9-Email-2" class="field-label">Correo electrónico</label><input type="email" class="form-input w-input" maxlength="256" name="Contact-9-Email" data-name="Contact 9 Email" placeholder="" id="Contact-9-Email" required=""/></div>
 			<div class="form-field-wrapper"><label for="Contact-9-Message" class="field-label">¿Cómo podemos ayudarte?</label><textarea placeholder="Escribe tu mensaje ..." maxlength="5000" id="Contact-9-Message" name="Contact-9-Message" data-name="Contact 9 Message" required="" class="form-input is-text-area w-input"></textarea></div><input type="submit" value="Enviar mis datos" data-wait="Please wait..." id="w-node-_7dfad718-7bf1-2589-d74d-4fb8f90aad8d-b2b338e5" class="button w-button"/>
