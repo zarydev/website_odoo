@@ -90,7 +90,7 @@
         <div class="padding-vertical padding-xxlarge footer">
           <div class="padding-top padding-medium">
             <div class="footer6_bottom-wrapper">
-		    <a href="#" class="footer6_logo-link w-nav-brand"><img src="myweb/static/images/logo-mada-negro.png" loading="lazy" width="126" alt=""></a>
+		    <a href="#" class="footer6_logo-link w-nav-brand"><img src="myweb/static/images/logo-mada-negro.png" loading="lazy" width="126" alt=""/></a>
               <div id="w-node-_6724f9a6-8d0a-07d0-2734-d0aa6becd58f-6becd586" class="footer6_credit-text">© 2022 MADA Studio. Todos los derechos reservados</div>
             </div>
           </div>
