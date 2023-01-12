@@ -8,6 +8,6 @@ class WsController(http.Controller):
     def main(self):
         return request.render('myweb.website',{})
 
-    @http.route('/create/crmclient', type="http", auth="public", website=False)
+    @http.route('/create/crmclient', type="http", auth="public", website=True)
     def create_crmclient(self, **kw):
         request.env['crm.lead'].sudo().create(kw)
