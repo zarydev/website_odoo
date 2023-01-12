@@ -76,7 +76,7 @@
                 </div>
               </div>
             </div>
-            <div class="div-block-4"><img src="myweb/static/images/residencias.jpg" loading="lazy" sizes="(max-width: 767px) 90vw, (max-width: 991px) 43vw, 41vw" srcset="images/residencias-p-500.jpg 500w, images/residencias-p-800.jpg 800w, images/residencias-p-1080.jpg 1080w, images/residencias-p-1600.jpg 1600w, images/residencias-p-2000.jpg 2000w, images/residencias.jpg 2000w" alt="">
+	    <div class="div-block-4"><img src="myweb/static/images/residencias.jpg" loading="lazy" sizes="(max-width: 767px) 90vw, (max-width: 991px) 43vw, 41vw" srcset="images/residencias-p-500.jpg 500w, images/residencias-p-800.jpg 800w, images/residencias-p-1080.jpg 1080w, images/residencias-p-1600.jpg 1600w, images/residencias-p-2000.jpg 2000w, images/residencias.jpg 2000w" alt=""/>
               <div class="text-block-2"><strong><br></br>Datos de contacto:<br></br>‍</strong>Quadra Towers, Edificio A, Piso 2-204.<br></br>Carretera Nacional Col. Villas La Rioja.<br></br>Monterrey, N.L. 64988.<br></br>‍<br></br>T: +52 81 1339 8282<br></br>W: +52 81 3251 0790</div>
             </div>
           </div>
